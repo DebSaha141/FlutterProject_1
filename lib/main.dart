@@ -207,9 +207,9 @@ class _MyFormState extends State<MyForm> {
                     }
                   },
                   child: const Padding(
-                    padding: const EdgeInsets.all(8.0),
+                    padding: const EdgeInsets.all(12.0),
                     child: Text(
-                      'Submit',
+                      'Save Profile',
                       style: TextStyle(fontSize: 18, color: Colors.black),
                     ),
                   ),
